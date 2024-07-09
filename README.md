@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 
 <!-- Talking about you -->
 **About Me:**
-- 🎓 Soon to graduate with a university degree in computer science from Linnaeus University
+- Looking for my first job in the tech industry in Sweden
+- 🎓 University degree in Computer Science from Linnaeus University
 
 **My Skills Include::**
 
