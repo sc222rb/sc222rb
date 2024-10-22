@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - Actively seeking my first role in the tech industry in Stockholm
 - 🎓  Higher Education Diploma in Computer Science from Linnaeus University
 
-**My Skills Include::**
+**My Skills:**
 
 <p>JavaScript | React | Node.js | Express | Java | PHP | Python</p>
 <p>SQL | Bash | Git | NPM | Linux | Jest | Mocha | JUnit | Gradle</p>
