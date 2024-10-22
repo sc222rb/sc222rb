@@ -25,5 +25,6 @@ Here are some ideas to get you started:
 **My Skills:**
 
 <p>JavaScript | React | Node.js | Express | Java | PHP | Python</p>
-<p>SQL | Bash | Git | NPM | Linux | Jest | Mocha | JUnit | Gradle</p>
-<p>JWT | MongoDB | Nginx | Docker</p>
+<p>Git | NPM | Linux | Docker | Nginx | Gradle</p>
+<p>Jest | Mocha | JUnit</p>
+<p>JWT | Bash</p>
