@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 
+I'm Sayaka, a full-stack developer from Japan, currently based in Stockholm.
 
 <!--
 **sc222rb/sc222rb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
