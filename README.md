@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <!-- Talking about you -->
 **About Me:**
-- Actively seeking my first role in the tech industry in Stockholm
+- 🔭  Actively seeking my first role in the tech industry in Stockholm
 - 🎓  Higher Education Diploma in Computer Science from Linnaeus University
 
 **My Skills:**
