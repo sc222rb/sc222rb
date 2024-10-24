@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 <!--[![Portfolio]--> Link to my LinkedIn page:
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sayaka-chishiki-jakobsson-315830291/)
+<!--[![Portfolio]--> Link to my portfolio page:
+https://sc222rb.github.io/my-portfolio/
 
 <!-- Talking about you -->
 **About Me:**
