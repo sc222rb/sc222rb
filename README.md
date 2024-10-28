@@ -26,7 +26,7 @@ https://sc222rb.github.io/my-portfolio/
 
 **My Skills:**
 
-<p>JavaScript | React | Node.js | Express | Java | PHP | Python</p>
-<p>Git | NPM | Linux | Docker | Nginx | Gradle</p>
-<p>Jest | Mocha | JUnit</p>
-<p>JWT | Bash</p>
+<p>JavaScript | TypeScript | Java | Python | PHP | SQL | Bash</p>
+<p>React | Node.js | Express | Jest | Mocha | JUnit</p>
+<p>Git | NPM | Docker | Gradle | Nginx | Linux</p>
+<p>MongoDB | MySQL | JWT</p>
