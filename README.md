@@ -1,7 +1,6 @@
 ### Hi there 👋 
 <img src="https://media.giphy.com/media/uB86ZyWQsnFSGYe2sA/giphy.gif" width="100"/>
 👋 Hi! I'm Sayaka, a fullstack developer based in Stockholm. I recently graduated with a degree in Computer Science from Linnaeus University 🎓, having completed my studies during my parental leaves. Before transitioning into tech, I spent many years working in healthcare. I chose this new career path because it perfectly blends my love for problem-solving and creativity. Outside of work, I enjoy staying active, cooking, and exploring new places ✈️!<br/><br/>
-ストックホルム在住のフルスタックエンジニア、SAYAKAです。2024年夏にスウェーデンの大学でWebプログラミング専攻でコンピュータサイエンスの学位を取得しました🎓。テック業界に転職する前は、医療分野で長年働いていました。問題解決能力とクリエイティビティを活かせる開発に魅力を感じています。趣味はトレーニング、料理、旅行🛫です。<br/><br/>
 
 <!--
 **sc222rb/sc222rb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
