@@ -1,31 +1,14 @@
 ### Hi there 👋 
 <img src="https://media.giphy.com/media/uB86ZyWQsnFSGYe2sA/giphy.gif" width="100"/>
-👋 Hi! I'm Sayaka, a fullstack developer based in Stockholm. I recently graduated with a degree in Computer Science from Linnaeus University 🎓, having completed my studies during my parental leaves. Before transitioning into tech, I spent many years working in healthcare. I chose this new career path because it perfectly blends my love for problem-solving and creativity. Outside of work, I enjoy staying active, cooking, and exploring new places ✈️!<br/><br/>
+Having transitioned from healthcare to tech, I offer a unique perspective on understanding user needs and crafting impactful solutions.<br/>
+My experience has shown me how technology can drive efficiency and improve lives, motivating me to create tools that make a difference.<br/>　
 
-<!--
-**sc222rb/sc222rb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I focus on developing high-quality software by blending technical expertise with a user-centered approach, always prioritizing problem-solving, creativity, and empathy.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+With hands-on experience in designing, building, and deploying web applications using modern technologies, I am committed to continuous learning and driving innovation in the tech field.
   
 <!--[![Portfolio]--> Link to my LinkedIn page:  
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sayaka-chishiki-jakobsson-315830291/)
-<!--[![Portfolio]--> Link to my portfolio page:
-https://sc222rb.github.io/my-portfolio/
-
-<!-- Talking about you -->
-**About Me:**
-- 🔭  Actively seeking my first role in the tech industry in Stockholm
-- 🎓  Higher Education Diploma in Computer Science from Linnaeus University
 
 **My Skills:**
 
