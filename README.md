@@ -11,6 +11,6 @@
 **My Skills:**
 
 <p>JavaScript | TypeScript | Java | Python | PHP | SQL | Bash</p>
-<p>React | Node.js | Express | Jest | Mocha | JUnit</p>
+<p>React | Next.js | Node.js | Express | Jest | Mocha | JUnit</p>
 <p>Git | NPM | Docker | Gradle | Nginx | Linux</p>
 <p>MongoDB | MySQL | JWT</p>
