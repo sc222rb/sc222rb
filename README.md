@@ -4,7 +4,9 @@
 <!--[![Portfolio]-->
 **About me:**
 - 🎓 Higher Education Diploma in Computer Science from Linnaeus University
-- 💻 Developed generative AI tools for the manufacturing industry, integrating AI models with front- and back-end systems and deploying production-ready solutions with Docker.
+- 💻 Full-stack developer with experience in generative AI and SaaS development
+  -  I previously built generative AI tools for the manufacturing industry, integrating AI models into full-stack systems and deploying production-ready solutions with Docker.
+  -  Currently, I work on a SaaS platform for the automotive sales and service industry, focusing on API design, React/TypeScript frontend development, and scalable backend systems on AWS.
 - 🔭 As I continue to grow in my career as a software developer, my current priority is to strengthen my fundamentals.
 - 💬 Ask me about data visualization or my journey from healthcare to becoming a developer while on parental leave.
 - ☁️ Currently Exploring: DevOps and cloud technologies
